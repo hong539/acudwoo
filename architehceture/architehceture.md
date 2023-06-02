@@ -5,6 +5,8 @@
 * Android
 * Linux
 * USB cable
+* [CameraX video capturing architecture](https://developer.android.com/training/camerax/video-capture)
+
 
 ```mermaid
 sequenceDiagram
